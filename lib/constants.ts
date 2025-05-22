@@ -17,6 +17,7 @@ export const MAIN_NAV_ITEMS = [
   { title: 'Developers', href: '/developers' },
   { title: 'Partners', href: '/partners' },
   { title: 'Resources', href: '/resources' },
+  { title: 'Help', href: '/help' },
   { title: 'About', href: '/about' },
 ]
 
